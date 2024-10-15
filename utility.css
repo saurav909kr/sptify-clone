@@ -44,17 +44,24 @@
     font-size: 26px;
     margin-left: 12px;
     margin-bottom: 5px;
+    cursor: pointer;
+}
+
+.c-1{
+    color: #c3bdbd;
 }
 
 .h2{
     font-size:18px;
     font-weight: 550;
     margin: 7px 0;
+    cursor: pointer;
 }
 .p{
     font-size: 15px;
     font-weight: 400;
     color: #c3bdbd;
+    cursor: pointer;
 } 
 
 #br-radius{
